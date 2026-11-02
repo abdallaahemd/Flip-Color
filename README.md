@@ -2,7 +2,7 @@
 
 A simple interactive page with a single button. Clicking **Flip Color** switches the page background between two colors.
 
-![Flip Color screenshot](screenshots/flip-color.png)
+![Flip Color screenshot](/flip-color.png)
 
 ## Features
 
